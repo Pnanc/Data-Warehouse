@@ -1,0 +1,5 @@
+SQL Data Warehouse and Analytics Project
+
+Designed and implemented a modern SQL-based Data Warehouse to consolidate sales data from multiple source systems (ERP and CRM) into a centralized analytical repository using the Medallion Architecture (Bronze, Silver, and Gold layers). Developed robust ETL pipelines to extract raw CSV data, perform data cleansing, standardization, transformation, and integration, ensuring high-quality and consistent datasets for business intelligence applications. Built an optimized star schema consisting of fact and dimension tables to support efficient analytical queries and reporting.
+
+Leveraged advanced SQL techniques, including Common Table Expressions (CTEs), window functions, stored procedures, and views, to generate actionable business insights on customer behavior, product performance, and sales trends. The project emphasizes industry best practices in data engineering, data modeling, and analytics by creating scalable data pipelines, improving query performance, and enabling data-driven decision-making through structured reporting and dashboard-ready datasets.
